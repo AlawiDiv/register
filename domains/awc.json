@@ -1,0 +1,17 @@
+{
+    "description": "Personal blog github page",
+
+    "domain": "is-cool.dev",
+    "subdomain": "awc",
+
+    "owner": {
+        "repo": "https://github.com/AlawiDiv/AWC",
+        "email": "alawialqurshi@yahoo.com"
+    },
+
+    "record": {
+        "CNAME": "https://alawidiv.github.io/AWC/"
+    },
+
+    "proxied": false
+}
